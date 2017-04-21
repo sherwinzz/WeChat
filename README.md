@@ -1,0 +1,2 @@
+# WeChat
+for graduation
